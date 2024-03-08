@@ -14,4 +14,6 @@
 
 // null is an object
 
+console.log(typeof undefined);
+console.log(typeof null);
 
