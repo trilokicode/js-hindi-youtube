@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>This is promise Exercise</h1>
+    <script>
+         const promise = new Promise(function(resolve, reject){
+    setTimeout(function(){
+        console.log('Ascyn Task is Completed');
+    },1000);
+});
+
+promise.then(function(){
+    console.log("Done promise");
+})
+    </script>
+    
+</body>
+</html>
