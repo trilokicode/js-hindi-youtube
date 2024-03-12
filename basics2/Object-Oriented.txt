@@ -1,0 +1,16 @@
+## JavaScript is a prototype based programming language.
+
+## Objects : Collection of properties and methods
+
+## Parts of OOPS
+abstraction
+polymorphism
+encapsulation
+inheritance
+
+
+## constructor functions
+prototypes 
+classes
+Objects
+Instances(new , this)
