@@ -63,7 +63,7 @@ console.log(result);
 */
 
 // reduce function
-
+/*
 const nums = [1,2,3];
 
 const result = nums.reduce((acc , currVal) => {
@@ -72,3 +72,11 @@ const result = nums.reduce((acc , currVal) => {
 },0);
 
 console.log(result);
+
+*/
+
+
+const numbers = [1,2,3,4,5,6,7,8,0];
+numbers.forEach((nums)=>{
+    console.log(nums);
+})
